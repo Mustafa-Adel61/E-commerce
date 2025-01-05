@@ -1,0 +1,12 @@
+F:\after army\API\WebApiEcommerce\Ecommerce.core\bin\Debug\net6.0\Ecommerce.core.deps.json
+F:\after army\API\WebApiEcommerce\Ecommerce.core\bin\Debug\net6.0\Ecommerce.core.dll
+F:\after army\API\WebApiEcommerce\Ecommerce.core\bin\Debug\net6.0\Ecommerce.core.pdb
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\Ecommerce.core.csproj.AssemblyReference.cache
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\Ecommerce.core.GeneratedMSBuildEditorConfig.editorconfig
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\Ecommerce.core.AssemblyInfoInputs.cache
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\Ecommerce.core.AssemblyInfo.cs
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\Ecommerce.core.csproj.CoreCompileInputs.cache
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\Ecommerce.core.dll
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\refint\Ecommerce.core.dll
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\Ecommerce.core.pdb
+F:\after army\API\WebApiEcommerce\Ecommerce.core\obj\Debug\net6.0\ref\Ecommerce.core.dll
